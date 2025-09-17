@@ -12,8 +12,8 @@
   - id        &emsp;&emsp;**ID Barang yang Unik berupa String**
   - nama      &emsp;&ensp;**Nama Barang berupa String**
   - JenisAlat &nbsp;**Jenis/Kategori Barang berupa String**
-  - harga     &emsp;&nbsp;**Harga Barang berupa Interger**
-  - gambar    &emsp;&nbsp;**Gambar Barang (untuk PhP)**
+  - harga     &emsp;&nbsp;**Harga Barang berupa Integer**
+  - gambar    &emsp;&nbsp;**Gambar Barang (untuk PHP)**
       
 - Kode dibuat dalam 4 Bahasa, yaitu :
   - C++ 💠

@@ -42,7 +42,7 @@
     
  ## 📝 Dokumentasi
  **Berikut adalah Dokumentasi berupa Screenshot saat program dijalankan di Terminal dan Web(Php)**
- - C++
+ ### C++
 ![CPP01](Dokumentasi/C++/CPP01.png)  
 ![CPP02](Dokumentasi/C++/CPP02.png)  
 ![CPP03](Dokumentasi/C++/CPP03.png)  
@@ -58,7 +58,7 @@
 ![CPP13](Dokumentasi/C++/CPP13.png)  
 ![CPP14](Dokumentasi/C++/CPP14.png)  
 ---
- - Java
+ ### Java
 ![JAVA01](Dokumentasi/Jawa/JAVA01.png)  
 ![JAVA02](Dokumentasi/Jawa/JAVA02.png)  
 ![JAVA03](Dokumentasi/Jawa/JAVA03.png)  
@@ -66,7 +66,7 @@
 ![JAVA05](Dokumentasi/Jawa/JAVA05.png)  
 ![JAVA06](Dokumentasi/Jawa/JAVA06.png)  
 ---
- - Python
+ ### Python
 ![PY01](Dokumentasi/Python/PY01.png)  
 ![PY02](Dokumentasi/Python/PY02.png)  
 ![PY03](Dokumentasi/Python/PY03.png)  
@@ -74,7 +74,7 @@
 ![PY05](Dokumentasi/Python/PY05.png)  
 ![PY06](Dokumentasi/Python/PY06.png) 
 ---
- - Php
+ ### Php
  ![PHP01](Dokumentasi/Php/PHP01.png)  
 ![PHP02](Dokumentasi/Php/PHP02.png)  
 ![PHP03](Dokumentasi/Php/PHP03.png)  

@@ -41,11 +41,54 @@
   - Mencari data dengan **ID** yang tidak ada
     
  ## 📝 Dokumentasi
+ **Berikut adalah Dokumentasi berupa Screenshot saat program dijalankan di Terminal dan Web(Php)**
  - C++
-
+![CPP01](Dokumentasi/C++/CPP01.png)  
+![CPP02](Dokumentasi/C++/CPP02.png)  
+![CPP03](Dokumentasi/C++/CPP03.png)  
+![CPP04](Dokumentasi/C++/CPP04.png)  
+![CPP05](Dokumentasi/C++/CPP05.png)  
+![CPP06](Dokumentasi/C++/CPP06.png)  
+![CPP07](Dokumentasi/C++/CPP07.png)  
+![CPP08](Dokumentasi/C++/CPP08.png)  
+![CPP09](Dokumentasi/C++/CPP09.png)  
+![CPP10](Dokumentasi/C++/CPP10.png)  
+![CPP11](Dokumentasi/C++/CPP11.png)  
+![CPP12](Dokumentasi/C++/CPP12.png)  
+![CPP13](Dokumentasi/C++/CPP13.png)  
+![CPP14](Dokumentasi/C++/CPP14.png)  
+---
  - Java
-
+![JAVA01](Dokumentasi/Jawa/JAVA01.png)  
+![JAVA02](Dokumentasi/Jawa/JAVA02.png)  
+![JAVA03](Dokumentasi/Jawa/JAVA03.png)  
+![JAVA04](Dokumentasi/Jawa/JAVA04.png)  
+![JAVA05](Dokumentasi/Jawa/JAVA05.png)  
+![JAVA06](Dokumentasi/Jawa/JAVA06.png)  
+---
  - Python
-
+![PY01](Dokumentasi/Python/PY01.png)  
+![PY02](Dokumentasi/Python/PY02.png)  
+![PY03](Dokumentasi/Python/PY03.png)  
+![PY04](Dokumentasi/Python/PY04.png)  
+![PY05](Dokumentasi/Python/PY05.png)  
+![PY06](Dokumentasi/Python/PY06.png) 
+---
  - Php
- 
+ ![PHP01](Dokumentasi/Php/PHP01.png)  
+![PHP02](Dokumentasi/Php/PHP02.png)  
+![PHP03](Dokumentasi/Php/PHP03.png)  
+![PHP04](Dokumentasi/Php/PHP04.png)  
+![PHP05](Dokumentasi/Php/PHP05.png)  
+![PHP06](Dokumentasi/Php/PHP06.png)  
+![PHP07](Dokumentasi/Php/PHP07.png)  
+![PHP08](Dokumentasi/Php/PHP08.png)  
+![PHP09](Dokumentasi/Php/PHP09.png)  
+![PHP10](Dokumentasi/Php/PHP10.png)  
+![PHP11](Dokumentasi/Php/PHP11.png)  
+![PHP12](Dokumentasi/Php/PHP12.png)  
+![PHP13](Dokumentasi/Php/PHP13.png)  
+![PHP14](Dokumentasi/Php/PHP14.png)  
+![PHP15](Dokumentasi/Php/PHP15.png)  
+![PHP16](Dokumentasi/Php/PHP16.png)  
+![PHP17](Dokumentasi/Php/PHP17.png)  

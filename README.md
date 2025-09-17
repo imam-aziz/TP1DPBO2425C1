@@ -1,7 +1,9 @@
 # 💻 TP1 DPBO - Imam Azizun Hakim - 2404420
 
+
 ## 🤝 Janji
 "Saya Imam Azizun Hakim dengan NIM 2404420 mengerjakan Tugas Praktikum 1 dalam mata kuliah Desain Pemrograman Berorientasi Objek untuk keberkahan-Nya maka saya tidak akan melakukan kecurangan seperti yang telah di spesifikasikan."
+
 
 ## 🔀 Penjelasan Desain dan Kode
 - Menggunakan 1 class bernama **_KimElektro_** berisi 4 atribut _(5 kalau di php)_
@@ -18,6 +20,7 @@
   - Java ☕
   - Python 🐍
   - Php 🐘
+
 
  ## 📝 Dokumentasi
  

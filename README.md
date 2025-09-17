@@ -10,11 +10,11 @@
   
 - Atribut **_KimElektro_** :
 <pre>
-  - id        <strong>ID Barang yang Unik berupa String</strong>
-  - nama      <strong>Nama Barang berupa String</strong>
-  - JenisAlat <strong>Jenis/Kategori Barang berupa String</strong>
-  - harga     <strong>Harga Barang berupa Integer</strong>
-  - gambar    <strong>Gambar Barang (untuk PHP)</strong>
+  ● id         <strong>ID Barang yang Unik berupa String</strong>
+  ● nama       <strong>Nama Barang berupa String</strong>
+  ● JenisAlat  <strong>Jenis/Kategori Barang berupa String</strong>
+  ● harga      <strong>Harga Barang berupa Integer</strong>
+  ● gambar     <strong>Gambar Barang (untuk PHP)</strong>
 </pre>
 
 - Kode dibuat dalam 4 Bahasa, yaitu :

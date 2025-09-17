@@ -9,12 +9,14 @@
 - Menggunakan 1 class bernama **_KimElektro_** berisi 4 atribut _(5 kalau di php)_
   
 - Atribut **_KimElektro_** :
-  - id        &emsp;&emsp;**ID Barang yang Unik berupa String**
-  - nama      &emsp;&ensp;**Nama Barang berupa String**
-  - JenisAlat &nbsp;**Jenis/Kategori Barang berupa String**
-  - harga     &emsp;&nbsp;**Harga Barang berupa Integer**
-  - gambar    &emsp;&nbsp;**Gambar Barang (untuk PHP)**
-      
+<pre>
+  - id        **ID Barang yang Unik berupa String**
+  - nama      **Nama Barang berupa String**
+  - JenisAlat **Jenis/Kategori Barang berupa String**
+  - harga     **Harga Barang berupa Integer**
+  - gambar    **Gambar Barang (untuk PHP)**
+</pre>
+
 - Kode dibuat dalam 4 Bahasa, yaitu :
   - C++ 💠
   - Java ☕

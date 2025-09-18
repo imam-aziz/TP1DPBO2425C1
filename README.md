@@ -34,12 +34,12 @@
 
 - Flow Program memiliki 6 option di menu
 <pre>
-  1. Tambah Data        <strong>Create</strong>
-  2. Lihat/Tampil Data  <strong>Read</strong>
-  3. Edit Data          <strong>Update</strong>
-  4. Hapus Data         <strong>Delete</strong>
-  5. Cari Data          <strong>Searching</strong>
-  6. Exit               <strong>Exit Program</strong>
+  1. Tambah Data        <strong>Create        : Untuk menambah data baru</strong>
+  2. Lihat/Tampil Data  <strong>Read          : Untuk membacaa dan menampilkan data</strong>
+  3. Edit Data          <strong>Update        : Untuk mengedit data yang sudah ada</strong>
+  4. Hapus Data         <strong>Delete        : Untuk menghapus data</strong>
+  5. Cari Data          <strong>Searching     : Untuk mencari data</strong>
+  6. Exit               <strong>Exit Program  : Untuk keluar dari program</strong>
 </pre>
 
 - Terdapat Error Handling Ketika

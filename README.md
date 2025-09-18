@@ -7,7 +7,8 @@
 
 ## 🔀 Penjelasan Desain dan Kode Flow
 - Menggunakan 1 class bernama **_KimElektro_** berisi 4 atribut _(5 kalau di php)_
-  
+
+### Class KimElektro
 - Atribut **_KimElektro_** :
 <pre>
   ● id         <strong>ID Barang yang Unik berupa String</strong>
@@ -15,6 +16,14 @@
   ● JenisAlat  <strong>Jenis/Kategori Barang berupa String</strong>
   ● harga      <strong>Harga Barang berupa Integer</strong>
   ● gambar     <strong>Gambar Barang (untuk PHP)</strong>
+</pre>
+
+- Method **_KimElektro_** :
+<pre>
+  ● Constructor   <strong>Untuk membuat objek KimElektro yang baru</strong>
+  ● Getter        <strong>Mengambil nilai atribut</strong>
+  ● Setter        <strong>Mengubah nilai atribut</strong>
+  ● Print Object  <strong>Harga Barang berupa Integer</strong>
 </pre>
 
 - Kode dibuat dalam 4 Bahasa, yaitu :
